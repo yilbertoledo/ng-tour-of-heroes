@@ -21,9 +21,11 @@ h2 {
     cursor: pointer;
     cursor: hand;
   }
+  
   button:hover {
     background-color: #cfd8dc;
   }
+
   button:disabled {
     background-color: #eee;
     color: #aaa;
